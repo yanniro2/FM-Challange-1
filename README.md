@@ -28,9 +28,9 @@ Thanks to watching this for checking out this front-end samples Web and Mobile d
 
 **To do this of HTML , CSS (SASS) and JS(React).**
 
-### View online
+## View online
 
-([https://yanniro2/github.io/FM-Challange-1])
+[https://yanniro2/github.io/FM-Challange-1]
 
 ## Available Scripts
 
